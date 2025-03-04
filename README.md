@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0038-count-and-say) |
 ## Trie
 |  |
@@ -104,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
