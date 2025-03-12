@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0069-sqrtx) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0043-multiply-strings) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
