@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
