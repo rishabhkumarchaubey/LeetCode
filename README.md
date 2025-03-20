@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -173,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Counting
 |  |
 | ------- |
