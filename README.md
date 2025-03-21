@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0062-unique-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
