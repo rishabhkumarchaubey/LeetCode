@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0062-unique-paths) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,5 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
