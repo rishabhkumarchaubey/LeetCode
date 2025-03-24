@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3430-count-days-without-meetings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3430-count-days-without-meetings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
