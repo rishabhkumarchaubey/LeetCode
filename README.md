@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0217-contains-duplicate) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0217-contains-duplicate) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3430-count-days-without-meetings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/0217-contains-duplicate) |
 | [3430-count-days-without-meetings](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rishabhkumarchaubey/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
